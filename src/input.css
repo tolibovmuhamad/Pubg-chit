@@ -1,1 +1,8 @@
 @import "tailwindcss";
+
+.maga1{
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 15px;
+    border-top-right-radius: 50px;
+    border-top-left-radius: 15px;
+}
